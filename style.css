@@ -38,6 +38,17 @@
     animation: jump 500ms infinite ease-out;
 }
 
+.reset {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 100%;
+    font-size: 50px;
+    background-color: transparent;
+
+}
+
 @keyframes pipe-animation {
     from {
         right: -80;

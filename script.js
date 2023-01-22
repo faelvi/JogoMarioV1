@@ -28,7 +28,6 @@ const loop = setInterval(() => {
         mario.style.width = '115px';
         mario.style.marginLeft = '30px';
 
-
         clearInterval(loop);
 
     }
